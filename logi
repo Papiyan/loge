@@ -1,0 +1,17 @@
+var Logement = {
+    "studio" : {
+        "numéro" : "24",
+        "rue" : "St-Laurent",
+        "app" : "A"
+    },
+    "deux et demi" : {
+        "numéro" : "4526",
+        "rue" : "Ste-Cathrine O",
+        "app" : "102"
+    }
+    "trois et demi" : {
+        "numéro" : "1658",
+        "rue" : "St-Denis",
+        "app" : "6"
+    }
+}
