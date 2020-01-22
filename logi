@@ -1,4 +1,4 @@
-var Logement = {
+{
     "studio" : {
         "numéro" : "24",
         "rue" : "St-Laurent",
